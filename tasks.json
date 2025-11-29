@@ -94,7 +94,7 @@
       "id": "TASK-007",
       "title": "Fire Sprinkler System - Floors 4-6",
       "description": "Install complete fire sprinkler system including pipes, heads, and controls",
-      "status": "pending",
+      "status": "in_progress",
       "priority": "high",
       "assigned_to": "Robert Kim (Plumbing Lead)",
       "due_date": "2024-04-01",
@@ -123,5 +123,5 @@
       "actual_hours": 99
     }
   ],
-  "last_updated": "2025-11-29T03:56:24.279381Z"
+  "last_updated": "2025-11-29T04:11:25.444614Z"
 }
