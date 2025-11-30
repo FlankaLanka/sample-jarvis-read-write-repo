@@ -6,7 +6,7 @@
       "description": "Finish steel frame installation for 5th floor including beams, columns, and decking",
       "status": "in_progress",
       "priority": "high",
-      "assigned_to": "John Martinez (Structural Lead)",
+      "assigned_to": "John Cena",
       "due_date": "2024-03-15",
       "progress": 50,
       "dependencies": [
@@ -123,5 +123,5 @@
       "actual_hours": 99
     }
   ],
-  "last_updated": "2025-11-30T00:30:35.876468Z"
+  "last_updated": "2025-11-30T00:31:11.379570Z"
 }
