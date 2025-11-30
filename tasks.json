@@ -52,7 +52,7 @@
       "description": "Complete all structural work, lighting, and signage for parking level 1",
       "status": "in_progress",
       "priority": "high",
-      "assigned_to": "David Rodriguez (Parking Lead)",
+      "assigned_to": "Sarah Chan",
       "due_date": "2024-03-25",
       "progress": 85,
       "dependencies": [],
@@ -137,5 +137,5 @@
       "actual_hours": 0
     }
   ],
-  "last_updated": "2025-11-30T00:51:40.010102Z"
+  "last_updated": "2025-11-30T01:05:19.417599Z"
 }
