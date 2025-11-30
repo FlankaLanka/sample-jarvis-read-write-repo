@@ -66,7 +66,7 @@
       "description": "Install complete HVAC system including ductwork, units, and controls for floors 1-3",
       "status": "pending",
       "priority": "high",
-      "assigned_to": "Sarah Chen (MEP Coordinator)",
+      "assigned_to": "Jasmine Chen (MEP Coordinator)",
       "due_date": "2024-04-05",
       "progress": 0,
       "dependencies": [
@@ -137,5 +137,5 @@
       "actual_hours": 0
     }
   ],
-  "last_updated": "2025-11-30T00:33:54.519577Z"
+  "last_updated": "2025-11-30T00:51:40.010102Z"
 }
